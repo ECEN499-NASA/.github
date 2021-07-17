@@ -1,0 +1,21 @@
+[submodule "ECEN499-NASA.github.io"]
+	path = ECEN499-NASA.github.io
+	url = https://github.com/ECEN499-NASA/ECEN499-NASA.github.io
+[submodule "Libero"]
+	path = Libero
+	url = https://github.com/ECEN499-NASA/Libero
+[submodule "SoftConsole"]
+	path = SoftConsole
+	url = https://github.com/ECEN499-NASA/SoftConsole
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/ECEN499-NASA/Arduino
+[submodule "Code"]
+	path = Code
+	url = https://github.com/ECEN499-NASA/Code
+[submodule "WI_20"]
+	path = WI_20
+	url = https://github.com/ECEN499-NASA/WI_20
+[submodule "Canvas-tools"]
+	path = Canvas-tools
+	url = https://github.com/ECEN499-NASA/Canvas-tools
