@@ -1,12 +1,7 @@
-## Hi there 👋
+# Designing a Microcontroller
 
-<!--
+## Using RISC-V in Triple Modular Redundancy for NASA’S Caution & Warning System
 
-**Here are some ideas to get you started:**
+Using the PolarFire FPGA Eval kit and a custom PCB, benchmark various RISC-V core configurations in Triple Modular Redundancy (TMR) for use in NASA’s Caution and Warning System (CWS) in the Portable Life Support System (PLSS) of the newest space suit (xEMU - Exploratory Extravehicular Mobility Unit).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://ecen499-nasa.github.io/
